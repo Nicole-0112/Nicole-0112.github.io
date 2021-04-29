@@ -9,3 +9,7 @@ div class="subheading mb-5" {
 font-size: 2.0rem;
 margin-bottom: 2.0rem 
 }
+.subheading {
+	font-family: 'Noto Sans TC', sans-serif;
+	line-height: 1.0
+}
