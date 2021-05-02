@@ -6,13 +6,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none
 }
-.subheading {
-	font-family: 'Noto Sans TC', sans-serif;
-	line-height: 1.0
-}
-.mb-5, .my-5{
-	margin-bottom: 5rem
-}
 div class="subheading mb-5" {
 font-size: 2.0rem;
 margin-bottom: 2.0rem 
