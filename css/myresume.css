@@ -7,7 +7,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	text-transform: none
 }
 .bg-primary {
-	background-color: #5cbfd1;
     background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
